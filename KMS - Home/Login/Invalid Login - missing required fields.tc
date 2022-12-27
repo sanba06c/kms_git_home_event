@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Login - missing required fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb6366d0-b393-4646-b274-5bd7c7d97275</testCaseGuid>
+   <variable>
+      <defaultValue>'abcd'</defaultValue>
+      <description></description>
+      <id>9fab0a9e-4c84-4fad-b424-148cc930ead0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0085c5f-fe1e-48b5-939a-9f958c0e642d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
